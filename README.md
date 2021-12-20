@@ -1,3 +1,2 @@
 # BiLSTM_CRF_GPU
-BiLSTM + CRF for NER problem
-More efficient and GPU friendly
+a more efficient and GPU friendly BiLSTM + CRF method for NER problem
